@@ -103,12 +103,12 @@ TextureImporter:
       name: Zaun_Industrial_Platform_Sprite_Sheet_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1987
-        height: 791
+        x: 3
+        y: 544
+        width: 1981
+        height: 194
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -121,11 +121,55 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Zaun_Industrial_Platform_Sprite_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 298
+        width: 1971
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fd3db55f216c94c8431034633840cb
+      internalID: -288587010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zaun_Industrial_Platform_Sprite_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 68
+        width: 1973
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5908ec08d4bb0934b9d1a234344b9dce
+      internalID: 1342104584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e6c2fd7f38022c34e8b66eb008f6b861
     internalID: 0
     vertices: []
     indices: 
@@ -134,7 +178,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Zaun_Industrial_Platform_Sprite_Sheet_0: 933536526385483788
+      Zaun_Industrial_Platform_Sprite_Sheet_1: -288587010
+      Zaun_Industrial_Platform_Sprite_Sheet_2: 1342104584
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

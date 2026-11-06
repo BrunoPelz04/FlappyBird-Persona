@@ -184,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "Sprites industriales sci\u2011fi con graffiti ne\xF3n_0": 5714143492016584854
+      "Sprites industriales sci\u2011fi con graffiti ne\xF3n_1": 2281683211242423933
+      "Sprites industriales sci\u2011fi con graffiti ne\xF3n_2": 1236465046807542192
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
