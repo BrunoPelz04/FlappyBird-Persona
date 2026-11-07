@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: c10687dce966a9345820734f3f2ae72d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2383797517432882588
+    second: choqueJinx_0
+  - first:
+      213: -1624267149955640543
+    second: choqueJinx_1
+  - first:
+      213: -3677045050297595077
+    second: choqueJinx_2
+  - first:
+      213: 3129967715113232662
+    second: choqueJinx_3
+  - first:
+      213: 4376515745985356780
+    second: choqueJinx_4
+  - first:
+      213: -8346988951342884543
+    second: choqueJinx_5
+  - first:
+      213: -7754017429399845924
+    second: choqueJinx_6
+  - first:
+      213: -2981975217518621067
+    second: choqueJinx_7
+  - first:
+      213: -4063365571762270626
+    second: choqueJinx_8
+  - first:
+      213: 3620968959609170298
+    second: choqueJinx_9
+  - first:
+      213: 6249480922411847750
+    second: choqueJinx_10
+  - first:
+      213: 3554870711242509228
+    second: choqueJinx_11
+  - first:
+      213: -5779899779848823244
+    second: choqueJinx_12
+  - first:
+      213: -8721376865401126680
+    second: choqueJinx_13
+  - first:
+      213: -125846882976816807
+    second: choqueJinx_14
+  - first:
+      213: 1028091989086250375
+    second: choqueJinx_15
+  - first:
+      213: 8781398263544857450
+    second: choqueJinx_16
+  - first:
+      213: 455010341743997049
+    second: choqueJinx_17
+  - first:
+      213: -2880666509635591438
+    second: choqueJinx_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: choqueJinx_3
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 851
+        width: 654
+        height: 605
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7390ca6b26bdc884cbea3f3a6b6f2788
+      internalID: -512573661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: choqueJinx_8
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 102
+        width: 690
+        height: 541
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be817e1b7fdf344a9b8589eaf6e436f
+      internalID: 1084438228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoqueJinx_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 532
+        width: 476
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23825a1250dba3448055f05d9ae2677
+      internalID: -1690671870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoqueJinx_1
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 473
+        width: 382
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f6f8949f33bce4dacd805f417e35f1
+      internalID: 1583074496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoqueJinx_2
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 432
+        width: 382
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8911678293319f43b7b2989b1e3341d
+      internalID: -2114166201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoqueJinx_3
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 524
+        width: 401
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596a825d66ca75a47a683f792cfe4127
+      internalID: 1713474814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoqueJinx_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 108
+        width: 457
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7a442dd95b6b749bc4ba6f08b4e1f4
+      internalID: -1204088762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoqueJinx_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 84
+        width: 370
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32a0849adc5f0044a92ecf2557d74e3
+      internalID: -2109444835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoqueJinx_6
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 74
+        width: 350
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078c3d6b4e22b0d4b8e860f55430bc95
+      internalID: 1610607430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChoqueJinx_7
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 85
+        width: 388
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba58ad63ddcb7249ab0c311e445f778
+      internalID: -1766473069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: daa4ee6150e86de4cbbfeb8bf9c143e4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ChoqueJinx_0: -1690671870
+      ChoqueJinx_1: 1583074496
+      ChoqueJinx_2: -2114166201
+      ChoqueJinx_3: 1713474814
+      ChoqueJinx_4: -1204088762
+      ChoqueJinx_5: -2109444835
+      ChoqueJinx_6: 1610607430
+      ChoqueJinx_7: -1766473069
+      choqueJinx_0: -952078835
+      choqueJinx_1: -1161759505
+      choqueJinx_2: 54358539
+      choqueJinx_3: -512573661
+      choqueJinx_4: 1395780134
+      choqueJinx_6: 1718657777
+      choqueJinx_8: 1084438228
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
