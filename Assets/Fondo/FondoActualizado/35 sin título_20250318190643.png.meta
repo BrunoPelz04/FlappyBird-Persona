@@ -115,10 +115,10 @@ TextureImporter:
       name: "35 sin t\xEDtulo_20250318190643_0"
       rect:
         serializedVersion: 2
-        x: 621
-        y: 54
-        width: 250
-        height: 877
+        x: 398
+        y: 14
+        width: 231
+        height: 652
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,10 +137,10 @@ TextureImporter:
       name: "35 sin t\xEDtulo_20250318190643_1"
       rect:
         serializedVersion: 2
-        x: 922
-        y: 73
-        width: 145
-        height: 457
+        x: 644
+        y: 50
+        width: 118
+        height: 359
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,10 +159,10 @@ TextureImporter:
       name: "35 sin t\xEDtulo_20250318190643_2"
       rect:
         serializedVersion: 2
-        x: 1166
-        y: 106
-        width: 214
-        height: 536
+        x: 822
+        y: 69
+        width: 165
+        height: 438
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

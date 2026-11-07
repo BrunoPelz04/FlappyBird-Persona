@@ -132,12 +132,12 @@ TextureImporter:
       name: "35 sin t\xEDtulo_20250318190634_0"
       rect:
         serializedVersion: 2
-        x: 78
-        y: 86
-        width: 358
-        height: 532
+        x: 26
+        y: 39
+        width: 654
+        height: 630
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -154,12 +154,12 @@ TextureImporter:
       name: "35 sin t\xEDtulo_20250318190634_1"
       rect:
         serializedVersion: 2
-        x: 1370
-        y: 87
-        width: 430
+        x: 916
+        y: 61
+        width: 406
         height: 364
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -176,7 +176,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 35882cf95c164b04e992eb4fbb4f04a9
     internalID: 0
     vertices: []
     indices: 
